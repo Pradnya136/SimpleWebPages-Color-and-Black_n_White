@@ -1,0 +1,46 @@
+h1
+{color:black;
+
+font-family: 'Gamja Flower', cursive;
+
+
+}
+body{
+	background-image: url(https://images.unsplash.com/photo-1536514498073-50e69d39c6cf?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=824b0560c76469fa22c2ecdf1985ac01&auto=format&fit=crop&w=1502&q=80);
+	background-size: cover;
+	font-family:'Dancing Script', cursive;
+color: black;
+text-align: left;
+font-size: 25px;
+}
+p{
+	color: yellow;
+}
+#pqr{
+	color:blue;
+	outline-color: purple;
+	font-family: verdana;
+	font-style: italic;
+}
+#a12{
+	color:blue;
+font-size:44px;
+text-decoration-style: all;
+text-align: center;
+}
+table, th, td{
+	border: 1px solid blue;
+}
+nth child{
+	background-color: pink
+}
+
+.abc:{
+	display: flex;
+	justify-content:space-between;
+	align-content: center;
+	}
+img{
+	width: 150px;
+	height: 150px;
+}
